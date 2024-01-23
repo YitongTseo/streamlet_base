@@ -1,0 +1,4 @@
+Following the steps from https://streamlit.io/
+1. pip install streamlit
+2. streamlet hello
+3. streamlit run home.py
